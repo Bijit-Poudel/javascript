@@ -1,0 +1,46 @@
+variable
+    let
+    const
+
+data
+    string  
+    number
+    boolean
+    undefined
+
+typeof
+
+string
+    single quotes
+    double quotes
+    backtick
+        it has special power, we ca call variable inside
+        `` but it is not possible in '' and ""
+backtick
+    ``
+    ${}
+        we can perform js operation inside ${}
+        +,-,*,/
+        variable call
+        function call
+
+
+Terminology
+    () => parenthesis
+    {} => curly braces
+    [] => array
+
+operator
+    arithmetic
+    assignment
+    comparator
+    logical operator
+
+if-els
+    if
+    else
+    if-else
+
+function
+    define function
+    call function
